@@ -1,0 +1,23 @@
+=>PYTHON : Python is a high-level, general-purpose programming language.
+  ->It is an interpreted, object oriented, procedural and functional language.
+  ->It is easy to learn and write because it does not have any ';' , '{}' and it has many inbuilt libraries.
+  ->It has wide range of applications : 1)AI Artificial intelligence
+                                        2)ML Machine learning
+                                        3)DS Data Science
+                                        4)Web development
+                                        5)Software development
+    This is what makes python a general purpose language.
+
+=>we can code python in REPL i.e read evaluate print loop  : we open it by typing python and clicking enter in terminal
+  or command prompt but the disadantage is we cannot manage our code and our code will be limited to single line so we
+  use other platforms to write code
+
+=>TO GET DOCS OF PYTHON : follow the steps : 
+  ->Install python and add to path
+  ->Open command prompt 
+  ->Enter "python"
+  ->You can see your python version that is installed in your system
+  ->Along with version you will see some commands like 'help' , 'copyright' etc.
+  ->Enter "help()"
+  ->You can see all the docs of python
+  ->Enter suitable command to see the docs
